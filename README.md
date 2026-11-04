@@ -4,7 +4,7 @@
 
 ---
 
-## 🖼️ Executive Dashboard Showcase
+## 🖼️ Dashboard Showcase
 
 | 1. High-Level Workforce Overview | 2. Diversity, Demographics & Equity |
 | :---: | :---: |
