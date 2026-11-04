@@ -8,11 +8,11 @@
 
 | 1. High-Level Workforce Overview | 2. Diversity, Demographics & Equity |
 | :---: | :---: |
-| ![Workforce Overview](images/1_overview.png) | ![Demographics](images/2_demographics.png) |
+| ![Workforce Overview](images/1_overview.jpg) | ![Demographics](images/2_demographics.jpg) |
 
 | 3. Individual Performance & Review Tracker | 4. Employee Attrition & Flight Risk Diagnostics |
 | :---: | :---: |
-| ![Performance Tracker](images/3_performance_tracker.png) | ![Attrition Diagnostics](images/4_attrition.png) |
+| ![Performance Tracker](images/3_performance_tracker.jpg) | ![Attrition Diagnostics](images/4_attrition.jpg) |
 
 ---
 
